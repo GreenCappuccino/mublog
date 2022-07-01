@@ -3,7 +3,7 @@ title: "Hello, World!"
 layout: post
 ---
 
-![A sunrise: Symbolizing a new beginning?](/assets/img/2022-06-30-hello-world.jpg)
+![A sunrise: Symbolizing a new beginning?](/assets/img/2022-06-29-hello-world.jpg)
 
 Hello, World!
 
