@@ -3,6 +3,8 @@ title: "3Dconnexion Patent Expiration"
 layout: post
 ---
 
+![A picture of a SpaceMouse 6 degree of freedom knob]
+
 One of the original patents for 3Dconnextion's SpaceMouse series of products has expired. This one covers one way to
 create their optoelectronic mechanism to create a brilliant 6DOF (Degrees Of Freedom) knob.
 
