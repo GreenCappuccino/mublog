@@ -1,8 +1,11 @@
 ---
-title: "About"
-permalink: "/about/"
-layout: page
+title: "Hello, World!"
+layout: post
 ---
+
+![A sunrise: Symbolizing a new beginning?](/assets/img/2022-06-30-hello-world.jpg)
+
+Hello, World!
 
 Hi! I'm Brian Lu, I'm a student attending Purdue University studying in their First-Year Engineering program, and I'm
 aiming to transfer into Computer Engineering.
