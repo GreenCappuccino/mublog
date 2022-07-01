@@ -9,6 +9,7 @@ Right now [Shamrock Cluster](https://shamrock.systems/), my own personal "cloud"
 pretty obvious why though, right? All the hardware is open on the floor! There's a good reason for this though, let me
 preview a bit of what I'm working on:
 
+
 - **I'm getting rid of switches!** All the Dell PowerEdge r710s are getting wired together directly using their
   NICs! [Proxmox SDN](https://pve.proxmox.com/wiki/Software_Defined_Network) seems like an appealing solution for both
   increasing local bandwidth on hyper-converged setups like mine, and providing a good platform for virtualized HA
